@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Zu-Ming Jiang</title>
-    <link rel="shortcut icon" type="image/x-icon" href="image/icon.png">
-    <link rel="shortcut icon" type="image/png" href="image/icon.png">
+	<title>LiLin's HomePage</title>
+    <link rel="shortcut icon" type="image/x-icon" href="image/icon.jpg">
+    <link rel="shortcut icon" type="image/png" href="image/icon.jpg">
 	<link rel="stylesheet" href="styles.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
 	<style>
@@ -80,127 +80,85 @@ li.publication-entry:before {
 </head>
 
 <body>
+	<!-- Title -->
 	<div style="font-size: 150%; ">
-		Zu-Ming Jiang (江祖铭)
+		Li Lin's HomePage
 	<hr>
 	</div>
 	 
-	<div style="width:15%; height:15%; float:right; max-width: 200px;max-height: 200px;">
-		<img src ="image/photo.jpg" style = "width:100%; border-radius:15%;"/>
+	<div style="width:30%; height:30%; float:right; max-width: 200px;max-height: 200px;">
+		<img src ="image/avatar.jpg" style = "width:100%; border-radius:15%;"/>
 	</div>
 	
+	<!-- Basic Information -->
 	<div style="width: 78%;">
 		<p>
-		Ph.D. student @ <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a><br>
-		Supervised by Prof. <a href="https://people.inf.ethz.ch/suz/" target="_blank">Zhendong Su</a><br>
-		<a href="https://ast.ethz.ch/" target="_blank">Advanced Software Technologies (AST) Lab</a><br>
-		<a href="https://inf.ethz.ch/" target="_blank">Department of Computer Science</a><br>
+		Master's student @Xiamen University<br>
+		Supervised by Prof. <a href="https://wurongxin1987.github.io/wurongxin.xmu.edu.cn/" target="_blank">Rongxin Wu</a><br>
+		<a href="https://s-cube-xmu.github.io/" target="_blank">System and Software Security Group</a><br>
+		Department of Computer Science and Technology<br>
 		</p>
 		
 		<p>
-		Address: CNB H 103.1, Universitätstrasse 6, 8092 Zürich, Switzerland<br>
-		E-Mail: zuming.jiang # inf.ethz.ch<br>
+		E-Mail: linli1210@stu.xmu.edu.cn<br>
 		</p>
 	</div>
 	
 	<div>
 		<h3>Research Interests</h3>
 		<hr>
-		Computer Security, Database, Operating System and Software Engineering. <br>
-		Currently he is researching the security and reliability problems of system software 
-		using software testing techniques (e.g. fuzzing).
+		Software security, Database, Third-party ecosystem. <br>
+		Currently I am researching the security and reliability problems of Database 
+		using software testing techniques (e.g. metamorphic testing).
 		<br>
 	</div>
 
+	<!-- Education Experience -->
+	<div>
+		<h3>Education</h3>
+		<hr>
+		<div style="float:right;">2022-09 ~ 2025.06</div>
+		<div>Master's degree in Computer Science and Technology, Xiamen University</div>
+		<div style="float:right;">2018-09 ~ 2022-06</div>
+		<div style="width: 90%;">Bachelor's degree in Computer Science and Technology, Xiamen University</div>
+	</div>
+
+	<!-- Publications -->
 	<div>
 		<h3>Publications</h3>
 		<hr>
-
 		<ol class="publication-list">
 			<li class="publication-entry">
 				<div class="publication-text">
-					<div class="title">Detecting Logic Bugs in Database Engines via Equivalent Expression Transformation</div>
-					<div class="authors"><u>Zu-Ming Jiang</u>, Zhendong Su.</div>
-					<div class="conference">In Proceeding of the 18th USENIX Symposium on Operating Systems Design and Implementation (<i>OSDI' 24</i>). Santa Clara, July 10–12, 2024.</div>
+					<div class="title">SQLess: Dialect-Agnostic SQL Query Simplification</div>
+					<div class="authors"><strong>Li Lin</strong>, Zongyin Hao, Chengpeng Wang, Zhuangda Wang, Rongxin Wu, Gang Fan.</div>
+					<div class="conference"><strong>ISSTA 2024</strong>: The ACM SIGSOFT International Symposium on Software Testing and Analysis, September, 2024</div>
 				</div>
 			</li>
 
 			<li class="publication-entry">
 				<div class="publication-text">
-					<div class="title">Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction</div>
-					<div class="authors"><u>Zu-Ming Jiang</u>, Si Liu, Manuel Rigger, Zhendong Su.</div>
-					<div class="conference">In Proceeding of the 17th USENIX Symposium on Operating Systems Design and Implementation (<i>OSDI' 23</i>). Boston, July 10–12, 2023.</div>
+					<div class="title">Taming Python Compatibility Issues: 
+						Dealing with Version Constraint Conffgurations for Python Third-Party Libraries </div>
+					<div class="authors">Chao Wang, <strong>Li Lin#</strong>, Zhuangda Wang, Chengpeng Wang, Rongxin Wu.</div>
+					<div class="conference">Preprint, May 2023</div>
 				</div>
-				<div class="links">[<a href="paper/osdi23-jiang.pdf" target="_blank">PDF</a> | <a href="https://github.com/JZuming/TxCheck" target="_blank">Code</a>]</div>
-			</li>
-		
-			<li class="publication-entry">
-				<div class="publication-text">
-					<div class="title">DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation</div>
-					<div class="authors"><u>Zu-Ming Jiang</u>, Jia-Ju Bai, Zhendong Su.</div>
-					<div class="conference">In Proceedings of the 32nd USENIX Security Symposium (<i>Security'23</i>). Anaheim, August 9–11, 2023.</div>
-				</div>
-				<div class="links">[<a href="paper/sec23-jiang.pdf" target="_blank">PDF</a>]</div>
 			</li>
 
-			<li class="publication-entry">
-				<div class="publication-text">
-					<div class="title">Testing Error Handling Code with Software Fault Injection and Error-Coverage-Guided Fuzzing</div>
-					<div class="authors">Jia-Ju Bai, Zi-Xuan Fu, Kai-Tao Xie, <u>Zu-Ming Jiang</u>.</div>
-					<div class="conference">IEEE Transactions on Dependable and Secure Computing (<i>TDSC'23</i>), 2023.</div>
-				</div>
-				<div class="links">[<a href="paper/tdsc23-bai.pdf" target="_blank">PDF</a>]</div>
-			</li>
-			
-			<li class="publication-entry">
-				<div class="publication-text">
-					<div class="title">Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection</div>
-					<div class="authors"><u>Zu-Ming Jiang</u>, Jia-Ju Bai, Kangjie Lu, Shi-Min Hu.</div>
-					<div class="conference">In Proceedings of the 29th Network and Distributed System Security Symposium (<i>NDSS'22</i>). San Diego, February 27–March 3, 2022.</div>
-				</div>
-				<div class="links">[<a href="paper/ndss22-jiang.pdf" target="_blank">PDF</a>]</div>
-			</li>
-			
-			<li class="publication-entry">
-				<div class="publication-text">
-					<div class="title">Hybrid Static-Dynamic Analysis of Data Races Caused by Inconsistent Locking Discipline in Device Drivers</div>
-					<div class="authors">Jia-Ju Bai, Qiu-Liang Chen, <u>Zu-Ming Jiang</u>, Julia Lawall, Shi-Min Hu.</div>
-					<div class="conference">IEEE Transactions on Software Engineering (<i>TSE'22</i>), 2022.</div>
-				</div>
-				<div class="links">[<a href="paper/tse22-bai.pdf" target="_blank">PDF</a>]</div>
-			</li>
-			
-			<li class="publication-entry">
-				<div class="publication-text">
-					<div class="title">Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection</div>
-					<div class="authors"><u>Zu-Ming Jiang</u>, Jia-Ju Bai, Kangjie Lu, Shi-Min Hu.</div>
-					<div class="conference">In Proceedings of the 29th USENIX Security Symposium (<i>Security'20</i>). Boston, August 12–14, 2020.</div>
-				</div>
-				<div class="links">[<a href="paper/sec20-jiang.pdf" target="_blank">PDF</a>]</div>
-			</li>
-			
-			<li class="publication-entry">
-				<div class="publication-text">
-					<div class="title">Fuzzing Error Handling Code in Device Drivers Based on Software Fault Injection</div>
-					<div class="authors"><u>Zu-Ming Jiang</u>, Jia-Ju Bai, Julia Lawall, Shi-Min Hu.</div>
-					<div class="conference">In Proceedings of the 30th International Symposium on Software Reliability Engineering (<i>ISSRE'19</i>). Berlin, October 28-31, 2019.</div>
-				</div>
-				<div class="links">[<a href="paper/issre19-jiang.pdf" target="_blank">PDF</a>]</div>
-			</li>
-
-			<li class="publication-entry">
-				<div class="publication-text">
-					<div class="title">Detecting Data Races Caused by Inconsistent Lock Protection in Device Drivers</div>
-					<div class="authors">Qiu-Liang Chen, Jia-Ju Bai, <u>Zu-Ming Jiang</u>, Julia Lawall, Shi-Min Hu.</div>
-					<div class="conference">In Proceedings of the 26th International Conference on Software Analysis, Evolution and Reengineering (<i>SANER'19</i>). Hangzhou, February 24-27, 2019.</div>
-				</div>
-				<div class="links">[<a href="paper/saner19-chen.pdf" target="_blank">PDF</a>]</div>
-			</li>
-		</ol>
-		
+			# means equal contribution. * means corresponding author. 
 	</div>
 
+	<!-- Patent Information -->
 	<div>
+		<h3>Patents</h3>
+		<hr>
+		<div style="float:right;">Patent No: CN115016840A</div>
+		<div>Method and Device for Dependency Conflict Resolution Based on Call Graph</div>
+		<div style="float:right;">Patent No: CXANT2069989</div>
+		<div style="width: 90%;">SQLess: Dialect-agnostic SQL Query Simplification</div>
+	</div>
+
+	<!-- <div>
 		<h3>Academic Service</h3>
 		<hr>
 		<div>
@@ -217,18 +175,18 @@ li.publication-entry:before {
 			<li><a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE Transactions on Dependable and Secure Computing (TDSC)</a> 2022, 2021</li>
 			<li><a href="https://dl.acm.org/journal/tosem" target="_blank">ACM Transactions on Software Engineering and Methodology (TOSEM)</a> 2023</li>
 		</div>
-	</div>
-
-	<!-- <div>
-		<h3>Talks</h3>
-		<hr>
-		<div>
-			<li>Fuzzing Database Engines (invited talk), hosted by Tencent, October 2022</li>
-			<li>Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction (invited talk), hosted by PingCAP, October 2022</li>
-		</div>
 	</div> -->
 
 	<div>
+		<h3>Talks</h3>
+		<hr>
+		<div>
+			<li>SQL Query Simplification and Bug detection in DBMS (invited talk), hosted by AntGroup, May 2024</li>
+			<!-- <li>Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction (invited talk), hosted by PingCAP, October 2022</li> -->
+		</div>
+	</div>
+
+	<!-- <div>
 		<h3>Teaching Assistant</h3>
 		<hr>
 		<div style="width: 90%;">
@@ -264,33 +222,21 @@ li.publication-entry:before {
 				<a href="https://www.sri.inf.ethz.ch/teaching/ses2022" target="_blank">Spring 2022</a>  
 			</li>
 		</div>
+	</div> -->
+	
+	
+	<!-- Awards Information -->
+	<div>
+		<h3>Honors</h3>
+		<hr>
+		<div style="float:right;">2021-2022</div>
+		<div style="width: 90%;">Outstanding Academic Scholarship, Department of Computer Science and Technology, Xiamen University</div>
+		<div style="float:right;">2019-2020</div>
+		<div style="width: 90%;">Outstanding Academic Scholarship, Department of Computer Science and Technology, Xiamen University</div>
 	</div>
 	
-	<div>
-		<h3>Education</h3>
-		<hr>
-		<div style="float:right;">2018 - 2021</div>
-		<div>Master degree in Computer Technology, <a href="https://www.tsinghua.edu.cn/en/index.htm" target="_blank">Tsinghua University</a></div>
-		<div style="float:right;">2014 - 2018</div>
-		<div style="width: 90%;">Bachelor degree in Electrical Engineering and Automation, 
-			<a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a></div>
-	</div>
-	
-	<div>
-		<h3>Awards and Grants</h3>
-		<hr>
-		<div style="float:right;">2023</div>
-		<div style="width: 90%;">OSDI '23 Student Grant Award</div>
-		<div style="float:right;">2021</div>
-		<div style="width: 90%;">Outstanding Master's Graduate, Department of Computer Science and Technology, Tsinghua University</div>
-		<div style="float:right;">2020</div>
-		<div style="width: 90%;"><a href="https://www.siebelscholars.com/scholar-profile/1966/" target="_blank">
-			Siebel Scholar Class of 2021</a>, Siebel Scholars Foundation</div>
-		<div style="float:right;">2018</div>
-		<div style="width: 90%;">Outstanding Bachelor Thesis, Zhejiang University</div>
-	</div>
 
-	<div style="overflow:hidden">
+	<!-- <div style="overflow:hidden">
 		<h3>Assigned CVEs</h3>
 		<hr>
 		<div>
@@ -313,9 +259,9 @@ li.publication-entry:before {
 			<div style="width: 10%; float:left"><a href="https://www.vim.org/" target="_blank">Vim</a> (2)</div> 
 			<div style="width: 88%; float:left">CVE-2020-19923, CVE-2020-19922</div>
 		</div>
-	</div>
+	</div> -->
 
-	<div>
+	<!-- <div>
 		<h3>Activities</h3>
 		<hr>
 		<div class="content-box">
@@ -327,7 +273,7 @@ li.publication-entry:before {
 				<li><b>Invited talk at Tencent, 2022</b>: Fuzzing for Database Systems (hosted by Peng Chen)</li>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<br>
 
