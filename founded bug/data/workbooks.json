@@ -1,0 +1,42 @@
+[
+  {
+    "method": "SQLess",
+    "file": "SQLess.xlsx",
+    "count": 22
+  },
+  {
+    "method": "QTRAN",
+    "file": "QTRAN.xlsx",
+    "count": 24
+  },
+  {
+    "method": "ValScope",
+    "file": "ValScope.xlsx",
+    "count": 67
+  },
+  {
+    "method": "SmartFuzz",
+    "file": "SmartFuzz.xlsx",
+    "count": 61
+  },
+  {
+    "method": "FPMT",
+    "file": "FPMT.xlsx",
+    "count": 44
+  },
+  {
+    "method": "DMLScope",
+    "file": "DMLScope.xlsx",
+    "count": 25
+  },
+  {
+    "method": "SchemaMorph",
+    "file": "SchemaMorph.xlsx",
+    "count": 21
+  },
+  {
+    "method": "FMU",
+    "file": "FMU.xlsx",
+    "count": 128
+  }
+]

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A filterable list of DBMS bugs reported by database testing research methods." />
+    <title>DBMS Bug List</title>
+    <link rel="stylesheet" href="./styles.css?v=20260804-3" />
+    <script defer src="./data/bug-data.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <script defer src="./app.js?v=20260804-3"></script>
+  </head>
+  <body>
+    <main>
+      <header class="page-heading">
+        <h1>Bug List <span>(Total: <b id="total-count">264</b>)</span></h1>
+        <div class="title-line" aria-hidden="true"></div>
+      </header>
+
+      <nav class="method-tabs" id="method-tabs" aria-label="Filter by method"></nav>
+
+      <section class="filters" aria-label="Bug filters">
+        <label class="search-field">
+          <span class="sr-only">Search bugs</span>
+          <input id="search-input" type="search" placeholder="Search Bug ID or Program" autocomplete="off" />
+        </label>
+        <label>
+          <span class="sr-only">Program</span>
+          <select id="program-filter"><option value="all">All Programs</option></select>
+        </label>
+        <label>
+          <span class="sr-only">Bug type</span>
+          <select id="type-filter"><option value="all">All Bug Types</option></select>
+        </label>
+        <label>
+          <span class="sr-only">Status</span>
+          <select id="status-filter"><option value="all">All Statuses</option></select>
+        </label>
+        <button id="reset-button" type="button">Reset</button>
+      </section>
+
+      <div class="table-meta">
+        <span id="result-count" aria-live="polite">264 records</span>
+        <div class="downloads" id="downloads">
+          <span>Excel:</span>
+        </div>
+      </div>
+
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>No.</th>
+              <th>Bug ID</th>
+              <th>Program</th>
+              <th>Bug Type</th>
+              <th>Status</th>
+              <th>Method</th>
+              <th>Bug Link</th>
+            </tr>
+          </thead>
+          <tbody id="bug-table-body"></tbody>
+        </table>
+        <div class="empty-state" id="empty-state" hidden>No bugs match the current filters.</div>
+      </div>
+    </main>
+  </body>
+</html>
