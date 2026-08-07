@@ -158,7 +158,7 @@ window.BUG_DATA = [
     "Bug ID": "#112816",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=112816",
     "Bug Type": "Simplification",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "SQLess"
   },
   {
@@ -167,7 +167,7 @@ window.BUG_DATA = [
     "Bug ID": "#112557",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=112557",
     "Bug Type": "Simplification",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "SQLess"
   },
   {
@@ -392,7 +392,7 @@ window.BUG_DATA = [
     "Bug ID": "#70638",
     "Bug Link": "https://github.com/ClickHouse/ClickHouse/issues/70638",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "QTRAN"
   },
   {
@@ -401,7 +401,7 @@ window.BUG_DATA = [
     "Bug ID": "#70639",
     "Bug Link": "https://github.com/ClickHouse/ClickHouse/issues/70639",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "QTRAN"
   },
   {
@@ -905,7 +905,7 @@ window.BUG_DATA = [
     "Bug ID": "#249",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/249",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "ValScope"
   },
   {
@@ -914,7 +914,7 @@ window.BUG_DATA = [
     "Bug ID": "#250",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/250",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "ValScope"
   },
   {
@@ -923,7 +923,7 @@ window.BUG_DATA = [
     "Bug ID": "#251",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/251",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "ValScope"
   },
   {
@@ -932,7 +932,7 @@ window.BUG_DATA = [
     "Bug ID": "#252",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/252",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "ValScope"
   },
   {
@@ -941,7 +941,7 @@ window.BUG_DATA = [
     "Bug ID": "#253",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/253",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "ValScope"
   },
   {
@@ -1499,7 +1499,7 @@ window.BUG_DATA = [
     "Bug ID": "#1385",
     "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1385",
     "Bug Type": "Crash",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "SmartFuzz"
   },
   {
@@ -1508,7 +1508,7 @@ window.BUG_DATA = [
     "Bug ID": "#1388",
     "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1388",
     "Bug Type": "Crash",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "SmartFuzz"
   },
   {
@@ -1517,7 +1517,7 @@ window.BUG_DATA = [
     "Bug ID": "#1389",
     "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1389",
     "Bug Type": "Crash",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "SmartFuzz"
   },
   {
@@ -1535,7 +1535,7 @@ window.BUG_DATA = [
     "Bug ID": "#1391",
     "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1391",
     "Bug Type": "Crash",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "SmartFuzz"
   },
   {
@@ -1544,7 +1544,7 @@ window.BUG_DATA = [
     "Bug ID": "#1392",
     "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1392",
     "Bug Type": "Crash",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "SmartFuzz"
   },
   {
@@ -1553,7 +1553,7 @@ window.BUG_DATA = [
     "Bug ID": "#1393",
     "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1393",
     "Bug Type": "Crash",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "SmartFuzz"
   },
   {
@@ -1562,7 +1562,7 @@ window.BUG_DATA = [
     "Bug ID": "#1394",
     "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1394",
     "Bug Type": "Crash",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "SmartFuzz"
   },
   {
@@ -1742,7 +1742,7 @@ window.BUG_DATA = [
     "Bug ID": "#63645",
     "Bug Link": "https://github.com/pingcap/tidb/issues/63645",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Fixed",
     "Method": "FPMT"
   },
   {
@@ -1787,7 +1787,7 @@ window.BUG_DATA = [
     "Bug ID": "#2372",
     "Bug Link": "https://github.com/oceanbase/oceanbase/issues/2372",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "FPMT"
   },
   {
