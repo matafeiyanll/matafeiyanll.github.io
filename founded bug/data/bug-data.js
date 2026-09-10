@@ -3526,5 +3526,1076 @@ window.BUG_DATA = [
     "Bug Type": "Logical Bug",
     "Status": "Fixed",
     "Method": "FMU"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 1,
+    "Bug ID": "#175",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/175",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 2,
+    "Bug ID": "#171",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/171",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 3,
+    "Bug ID": "#172",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/172",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 4,
+    "Bug ID": "#173",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/173",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 5,
+    "Bug ID": "#174",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/174",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "CrateDB",
+    "ID": 1,
+    "Bug ID": "#19940",
+    "Bug Link": "https://github.com/crate/crate/issues/19940",
+    "Bug Type": "Crash",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "CrateDB",
+    "ID": 2,
+    "Bug ID": "#19943",
+    "Bug Link": "https://github.com/crate/crate/issues/19943",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "CrateDB",
+    "ID": 3,
+    "Bug ID": "#19949",
+    "Bug Link": "https://github.com/crate/crate/issues/19949",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "CrateDB",
+    "ID": 4,
+    "Bug ID": "#19950",
+    "Bug Link": "https://github.com/crate/crate/issues/19950",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "CrateDB",
+    "ID": 5,
+    "Bug ID": "#19951",
+    "Bug Link": "https://github.com/crate/crate/issues/19951",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "CrateDB",
+    "ID": 6,
+    "Bug ID": "#19952",
+    "Bug Link": "https://github.com/crate/crate/issues/19952",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "CrateDB",
+    "ID": 7,
+    "Bug ID": "#19953",
+    "Bug Link": "https://github.com/crate/crate/issues/19953",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "DuckDB",
+    "ID": 1,
+    "Bug ID": "#24144",
+    "Bug Link": "https://github.com/duckdb/duckdb/issues/24144",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "DuckDB",
+    "ID": 2,
+    "Bug ID": "#24141",
+    "Bug Link": "https://github.com/duckdb/duckdb/issues/24141",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "DuckDB",
+    "ID": 3,
+    "Bug ID": "#24143",
+    "Bug Link": "https://github.com/duckdb/duckdb/issues/24143",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "DuckDB",
+    "ID": 4,
+    "Bug ID": "#24151",
+    "Bug Link": "https://github.com/duckdb/duckdb/issues/24151",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "DuckDB",
+    "ID": 5,
+    "Bug ID": "#24142",
+    "Bug Link": "https://github.com/duckdb/duckdb/issues/24142",
+    "Bug Type": "Performance Bug",
+    "Status": "Waiting",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 1,
+    "Bug ID": "#MDEV-40569",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40569",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 2,
+    "Bug ID": "#MDEV-40433",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40433",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 3,
+    "Bug ID": "#MDEV-40435",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40435",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 4,
+    "Bug ID": "#MDEV-40441",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40441",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 5,
+    "Bug ID": "#MDEV-40472",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40472",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 6,
+    "Bug ID": "#MDEV-40474",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40474",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 7,
+    "Bug ID": "#MDEV-40509",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40509",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 8,
+    "Bug ID": "#MDEV-40516",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40516",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 9,
+    "Bug ID": "#MDEV-40432",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40432",
+    "Bug Type": "Crash",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 10,
+    "Bug ID": "#MDEV-40440",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40440",
+    "Bug Type": "Logical Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 11,
+    "Bug ID": "#MDEV-40443",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40443",
+    "Bug Type": "Logical Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 12,
+    "Bug ID": "#MDEV-40434",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40434",
+    "Bug Type": "Performance Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 13,
+    "Bug ID": "#MDEV-40437",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40437",
+    "Bug Type": "Performance Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 14,
+    "Bug ID": "#MDEV-40438",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40438",
+    "Bug Type": "Performance Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 15,
+    "Bug ID": "#MDEV-40439",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40439",
+    "Bug Type": "Performance Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MariaDB",
+    "ID": 16,
+    "Bug ID": "#MDEV-40475",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40475",
+    "Bug Type": "Performance Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 1,
+    "Bug ID": "#7963",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7963",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 2,
+    "Bug ID": "#7967",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7967",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 3,
+    "Bug ID": "#7965",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7965",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 4,
+    "Bug ID": "#7964",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7964",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 5,
+    "Bug ID": "#7966",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7966",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 6,
+    "Bug ID": "#7968",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7968",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 7,
+    "Bug ID": "#7969",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7969",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 8,
+    "Bug ID": "#7970",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7970",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MonetDB",
+    "ID": 9,
+    "Bug ID": "#7975",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7975",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 1,
+    "Bug ID": "#120917",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120917",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 2,
+    "Bug ID": "#120918",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120918",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 3,
+    "Bug ID": "#120821",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120821",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 4,
+    "Bug ID": "#120899",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120899",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 5,
+    "Bug ID": "#120900",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120900",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 6,
+    "Bug ID": "#120935",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120935",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 7,
+    "Bug ID": "#120956",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120956",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 8,
+    "Bug ID": "#120971",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120971",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 9,
+    "Bug ID": "#120972",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120972",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 10,
+    "Bug ID": "#120988",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120988",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 11,
+    "Bug ID": "#120973",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120973",
+    "Bug Type": "Performance Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "MySQL",
+    "ID": 12,
+    "Bug ID": "#121006",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121006",
+    "Bug Type": "Performance Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Percona",
+    "ID": 1,
+    "Bug ID": "#PS-11448",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11448",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Percona",
+    "ID": 2,
+    "Bug ID": "#PS-11449",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11449",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Percona",
+    "ID": 3,
+    "Bug ID": "#PS-11450",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11450",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Percona",
+    "ID": 4,
+    "Bug ID": "#PS-11451",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11451",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Percona",
+    "ID": 5,
+    "Bug ID": "#PS-11452",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11452",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Percona",
+    "ID": 6,
+    "Bug ID": "#PS-11453",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11453",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Percona",
+    "ID": 7,
+    "Bug ID": "#PS-11455",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11455",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Percona",
+    "ID": 8,
+    "Bug ID": "#PS-11468",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11468",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 1,
+    "Bug ID": "#19563",
+    "Bug Link": "https://www.postgresql.org/account/submitbug/19563/",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 2,
+    "Bug ID": "#19567",
+    "Bug Link": "https://www.postgresql.org/account/submitbug/19567/",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 3,
+    "Bug ID": "#19575",
+    "Bug Link": "https://www.postgresql.org/account/submitbug/19575/",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 4,
+    "Bug ID": "#19570",
+    "Bug Link": "https://www.postgresql.org/message-id/tencent_0B49E6A81AE42711B80C20E563ED01765505%40qq.com",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 5,
+    "Bug ID": "#19577",
+    "Bug Link": "https://www.postgresql.org/message-id/tencent_65E56BCD08764109E4E801A42AF1AA4C2305%40qq.com",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 6,
+    "Bug ID": "#19564",
+    "Bug Link": "https://www.postgresql.org/message-id/tencent_273501D807A5E3236A90EDC49C3281949707%40qq.com",
+    "Bug Type": "Performance Bug",
+    "Status": "Waiting",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 7,
+    "Bug ID": "#19565",
+    "Bug Link": "https://www.postgresql.org/message-id/tencent_C6C91A262C91D2D5111B48762270194A8A06%40qq.com",
+    "Bug Type": "Performance Bug",
+    "Status": "Waiting",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 8,
+    "Bug ID": "#19568",
+    "Bug Link": "https://www.postgresql.org/message-id/tencent_AB4A0A47D520BE8902655B29836BCEB05008%40qq.com",
+    "Bug Type": "Performance Bug",
+    "Status": "Waiting",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 9,
+    "Bug ID": "#19569",
+    "Bug Link": "https://www.postgresql.org/message-id/tencent_E960DF95B08E1C405C12BBCB485282D6D209%40qq.com",
+    "Bug Type": "Performance Bug",
+    "Status": "Waiting",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "PostgreSQL",
+    "ID": 10,
+    "Bug ID": "#19571",
+    "Bug Link": "https://www.postgresql.org/message-id/tencent_C9765AE9E6881B242FD1B02C23257FED1F05%40qq.com",
+    "Bug Type": "Performance Bug",
+    "Status": "Waiting",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "SQLite",
+    "ID": 1,
+    "Bug ID": "#36468",
+    "Bug Link": "https://sqlite.org/bugs/forumpost/3646885a31e2777a3de67d6714879834121dcf2ac5cab69606e8baebe610c1b2",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "SQLite",
+    "ID": 2,
+    "Bug ID": "#3d413",
+    "Bug Link": "https://sqlite.org/bugs/forumpost/3d413d0c501b487a9a63beff95238c42a146561a0681f0421d30245be8cac531",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "SQLite",
+    "ID": 3,
+    "Bug ID": "#5987a",
+    "Bug Link": "https://sqlite.org/bugs/forumpost/5987ad8bbf669f5fc08f5bb0acdfac4cd7862ae241e9161da36a8154df58e3dd",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "SQLite",
+    "ID": 4,
+    "Bug ID": "#703ba",
+    "Bug Link": "https://sqlite.org/bugs/forumpost/703ba0ce1994423abb19fe9f5cbc11a2feb4418d3a20d430acf01b1e3ed21c60",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "SQLite",
+    "ID": 5,
+    "Bug ID": "#a364a",
+    "Bug Link": "https://sqlite.org/bugs/forumpost/a364afa0095895926aa0fee08e89f7efa769a327eef9dd98b82e9c74afdc6601",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "SQLite",
+    "ID": 6,
+    "Bug ID": "#d680c",
+    "Bug Link": "https://sqlite.org/bugs/forumpost/d680c9e02f41a5fc8d0585b11dbb08a98f29e09e8dd0801141e322ba005d2655",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "SQLite",
+    "ID": 7,
+    "Bug ID": "#ff6a8",
+    "Bug Link": "https://sqlite.org/bugs/forumpost/ff6a89a1d1e9f60f20c6c6ee517a538a30779f3598dc0feff339fd08ce2df28b",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 1,
+    "Bug ID": "#69916",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69916",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 2,
+    "Bug ID": "#70235",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/70235",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 3,
+    "Bug ID": "#69919",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69919",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 4,
+    "Bug ID": "#69930",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69930",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 5,
+    "Bug ID": "#69940",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69940",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 6,
+    "Bug ID": "#69966",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69966",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 7,
+    "Bug ID": "#69997",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69997",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 8,
+    "Bug ID": "#69925",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69925",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 9,
+    "Bug ID": "#69926",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69926",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 10,
+    "Bug ID": "#69927",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/69927",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "TiDB",
+    "ID": 11,
+    "Bug ID": "#70051",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/70051",
+    "Bug Type": "Performance Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 1,
+    "Bug ID": "#1440",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1440",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 2,
+    "Bug ID": "#1441",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1441",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 3,
+    "Bug ID": "#1442",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1442",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 4,
+    "Bug ID": "#1443",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1443",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 5,
+    "Bug ID": "#1444",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1444",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 6,
+    "Bug ID": "#1445",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1445",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 7,
+    "Bug ID": "#1446",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1446",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 8,
+    "Bug ID": "#1447",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1447",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 9,
+    "Bug ID": "#1448",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1448",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 10,
+    "Bug ID": "#1449",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1449",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 11,
+    "Bug ID": "#1450",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1450",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 12,
+    "Bug ID": "#1451",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1451",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 13,
+    "Bug ID": "#1462",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1462",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 14,
+    "Bug ID": "#1452",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1452",
+    "Bug Type": "Crash",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 15,
+    "Bug ID": "#1453",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1453",
+    "Bug Type": "Crash",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 16,
+    "Bug ID": "#1454",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1454",
+    "Bug Type": "Crash",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 17,
+    "Bug ID": "#1455",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1455",
+    "Bug Type": "Crash",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 18,
+    "Bug ID": "#1463",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1463",
+    "Bug Type": "Crash",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 19,
+    "Bug ID": "#1464",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1464",
+    "Bug Type": "Crash",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 20,
+    "Bug ID": "#1458",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1458",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 21,
+    "Bug ID": "#1460",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1460",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 22,
+    "Bug ID": "#1459",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1459",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 23,
+    "Bug ID": "#1461",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1461",
+    "Bug Type": "Logical Bug",
+    "Status": "Duplicated",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 24,
+    "Bug ID": "#1456",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1456",
+    "Bug Type": "Crash",
+    "Status": "Waiting",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Vitess",
+    "ID": 1,
+    "Bug ID": "#20846",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20846",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Vitess",
+    "ID": 2,
+    "Bug ID": "#20845",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20845",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Vitess",
+    "ID": 3,
+    "Bug ID": "#20848",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20848",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Vitess",
+    "ID": 4,
+    "Bug ID": "#20849",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20849",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
+  },
+  {
+    "Program": "Vitess",
+    "ID": 5,
+    "Bug ID": "#20851",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20851",
+    "Bug Type": "Performance Bug",
+    "Status": "Confirmed",
+    "Method": "RIFT"
   }
 ];

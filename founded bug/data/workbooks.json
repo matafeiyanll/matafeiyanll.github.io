@@ -38,5 +38,10 @@
     "method": "FMU",
     "file": "FMU.xlsx",
     "count": 128
+  },
+  {
+    "method": "RIFT",
+    "file": "RIFT.xlsx",
+    "count": 119
   }
 ]

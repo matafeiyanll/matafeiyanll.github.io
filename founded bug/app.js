@@ -9,6 +9,7 @@ const state = {
     { method: "DMLScope", file: "DMLScope.xlsx" },
     { method: "SchemaMorph", file: "SchemaMorph.xlsx" },
     { method: "FMU", file: "FMU.xlsx" },
+    { method: "RIFT", file: "RIFT.xlsx" },
   ],
   search: "",
   program: "all",
