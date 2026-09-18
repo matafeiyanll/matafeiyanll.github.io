@@ -2513,10 +2513,10 @@ window.BUG_DATA = [
   {
     "Program": "MySQL",
     "ID": 16,
-    "Bug ID": "#120340",
-    "Bug Link": "https://bugs.mysql.com/bug.php?id=120340",
+    "Bug ID": "#121304",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121304",
     "Bug Type": "Logical Bug",
-    "Status": "Not a bug",
+    "Status": "Confirmed",
     "Method": "FMU"
   },
   {
@@ -2612,10 +2612,10 @@ window.BUG_DATA = [
   {
     "Program": "MariaDB",
     "ID": 27,
-    "Bug ID": "MDEV-39434",
-    "Bug Link": "https://jira.mariadb.org/browse/MDEV-39434",
+    "Bug ID": "MDEV-41160",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-41160",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "FMU"
   },
   {
