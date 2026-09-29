@@ -10,6 +10,7 @@ const state = {
     { method: "SchemaMorph", file: "SchemaMorph.xlsx" },
     { method: "FMU", file: "FMU.xlsx" },
     { method: "RIFT", file: "RIFT.xlsx" },
+    { method: "VECT", file: "VECT.xlsx" },
   ],
   search: "",
   program: "all",

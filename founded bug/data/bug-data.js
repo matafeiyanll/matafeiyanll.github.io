@@ -4597,5 +4597,842 @@ window.BUG_DATA = [
     "Bug Type": "Performance Bug",
     "Status": "Confirmed",
     "Method": "RIFT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 1,
+    "Bug ID": "#158",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/158",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 2,
+    "Bug ID": "#159",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/159",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 3,
+    "Bug ID": "#160",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/160",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 4,
+    "Bug ID": "#161",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/161",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 5,
+    "Bug ID": "#162",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/162",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 6,
+    "Bug ID": "#163",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/163",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 7,
+    "Bug ID": "#164",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/164",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 8,
+    "Bug ID": "#181",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/181",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 9,
+    "Bug ID": "#182",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/182",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 10,
+    "Bug ID": "#183",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/183",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 11,
+    "Bug ID": "#184",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/184",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 12,
+    "Bug ID": "#185",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/185",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "AliSQL",
+    "ID": 13,
+    "Bug ID": "#186",
+    "Bug Link": "https://github.com/alibaba/AliSQL/issues/186",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "CRATEDB",
+    "ID": 1,
+    "Bug ID": "#19760",
+    "Bug Link": "https://github.com/crate/crate/issues/19760",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "CRATEDB",
+    "ID": 2,
+    "Bug ID": "#19761",
+    "Bug Link": "https://github.com/crate/crate/issues/19761",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "CRATEDB",
+    "ID": 3,
+    "Bug ID": "#20119",
+    "Bug Link": "https://github.com/crate/crate/issues/20119",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "CRATEDB",
+    "ID": 4,
+    "Bug ID": "#20120",
+    "Bug Link": "https://github.com/crate/crate/issues/20120",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "CRATEDB",
+    "ID": 5,
+    "Bug ID": "#20136",
+    "Bug Link": "https://github.com/crate/crate/issues/20136",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "DUCKDB",
+    "ID": 1,
+    "Bug ID": "#25148",
+    "Bug Link": "https://github.com/duckdb/duckdb/issues/25148",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MARIADB",
+    "ID": 1,
+    "Bug ID": "MDEV-39580",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-39580",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MARIADB",
+    "ID": 2,
+    "Bug ID": "MDEV-39725",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-39725",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MARIADB",
+    "ID": 3,
+    "Bug ID": "MDEV-40881",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40881",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MARIADB",
+    "ID": 4,
+    "Bug ID": "MDEV-40883",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40883",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MARIADB",
+    "ID": 5,
+    "Bug ID": "MDEV-40884",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40884",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MARIADB",
+    "ID": 6,
+    "Bug ID": "MDEV-40888",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40888",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MARIADB",
+    "ID": 7,
+    "Bug ID": "MDEV-40893",
+    "Bug Link": "https://jira.mariadb.org/browse/MDEV-40893",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MONETDB",
+    "ID": 1,
+    "Bug ID": "#7999",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7999",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MONETDB",
+    "ID": 2,
+    "Bug ID": "#8000",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8000",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MONETDB",
+    "ID": 3,
+    "Bug ID": "#8001",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8001",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MONETDB",
+    "ID": 4,
+    "Bug ID": "#8014",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8014",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MONETDB",
+    "ID": 5,
+    "Bug ID": "#8015",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8015",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MONETDB",
+    "ID": 6,
+    "Bug ID": "#8017",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8017",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MONETDB",
+    "ID": 7,
+    "Bug ID": "#8018",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8018",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MONETDB",
+    "ID": 8,
+    "Bug ID": "#8019",
+    "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8019",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 1,
+    "Bug ID": "#120248",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120248",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 2,
+    "Bug ID": "#120255",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120255",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 3,
+    "Bug ID": "#120256",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120256",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 4,
+    "Bug ID": "#120258",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120258",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 5,
+    "Bug ID": "#120259",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120259",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 6,
+    "Bug ID": "#120286",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120286",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 7,
+    "Bug ID": "#120543",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=120543",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 8,
+    "Bug ID": "#121091",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121091",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 9,
+    "Bug ID": "#121149",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121149",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 10,
+    "Bug ID": "#121152",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121152",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 11,
+    "Bug ID": "#121186",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121186",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 12,
+    "Bug ID": "#121187",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121187",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 13,
+    "Bug ID": "#121188",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121188",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 14,
+    "Bug ID": "#121206",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121206",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 15,
+    "Bug ID": "#121207",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121207",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "MYSQL",
+    "ID": 16,
+    "Bug ID": "#121208",
+    "Bug Link": "https://bugs.mysql.com/bug.php?id=121208",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 1,
+    "Bug ID": "PS-11056",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11056",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 2,
+    "Bug ID": "PS-11057",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11057",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 3,
+    "Bug ID": "PS-11058",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11058",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 4,
+    "Bug ID": "PS-11059",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11059",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 5,
+    "Bug ID": "PS-11060",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11060",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 6,
+    "Bug ID": "PS-11061",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11061",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 7,
+    "Bug ID": "PS-11062",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11062",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 8,
+    "Bug ID": "PS-11063",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11063",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 9,
+    "Bug ID": "PS-11064",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11064",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 10,
+    "Bug ID": "PS-11550",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11550",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 11,
+    "Bug ID": "PS-11551",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11551",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 12,
+    "Bug ID": "PS-11552",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11552",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 13,
+    "Bug ID": "PS-11553",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11553",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 14,
+    "Bug ID": "PS-11554",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11554",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "PERCONA",
+    "ID": 15,
+    "Bug ID": "PS-11555",
+    "Bug Link": "https://perconadev.atlassian.net/browse/PS-11555",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 1,
+    "Bug ID": "#268",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/268",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 2,
+    "Bug ID": "#269",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/269",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 3,
+    "Bug ID": "#286",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/286",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 4,
+    "Bug ID": "#287",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/287",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 5,
+    "Bug ID": "#288",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/288",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 6,
+    "Bug ID": "#289",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/289",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 7,
+    "Bug ID": "#290",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/290",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 8,
+    "Bug ID": "#291",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/291",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 9,
+    "Bug ID": "#292",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/292",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "polardbx-sql",
+    "ID": 10,
+    "Bug ID": "#297",
+    "Bug Link": "https://github.com/polardb/polardbx-sql/issues/297",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "TIDB",
+    "ID": 1,
+    "Bug ID": "#70633",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/70633",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "TIDB",
+    "ID": 2,
+    "Bug ID": "#70634",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/70634",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "TIDB",
+    "ID": 3,
+    "Bug ID": "#70636",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/70636",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "TIDB",
+    "ID": 4,
+    "Bug ID": "#70641",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/70641",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "TIDB",
+    "ID": 5,
+    "Bug ID": "#70745",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/70745",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "TIDB",
+    "ID": 6,
+    "Bug ID": "#70746",
+    "Bug Link": "https://github.com/pingcap/tidb/issues/70746",
+    "Bug Type": "Logical Bug",
+    "Status": "Confirmed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 1,
+    "Bug ID": "#1437",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1437",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Virtuoso",
+    "ID": 2,
+    "Bug ID": "#1438",
+    "Bug Link": "https://github.com/openlink/virtuoso-opensource/issues/1438",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 1,
+    "Bug ID": "#20611",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20611",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 2,
+    "Bug ID": "#20612",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20612",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 3,
+    "Bug ID": "#20613",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20613",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 4,
+    "Bug ID": "#20614",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20614",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 5,
+    "Bug ID": "#20615",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20615",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 6,
+    "Bug ID": "#20616",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20616",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 7,
+    "Bug ID": "#20617",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20617",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 8,
+    "Bug ID": "#20618",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20618",
+    "Bug Type": "Logical Bug",
+    "Status": "Waiting",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 9,
+    "Bug ID": "#20619",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20619",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
+  },
+  {
+    "Program": "Vitness",
+    "ID": 10,
+    "Bug ID": "#20620",
+    "Bug Link": "https://github.com/vitessio/vitess/issues/20620",
+    "Bug Type": "Logical Bug",
+    "Status": "Fixed",
+    "Method": "VECT"
   }
 ];
