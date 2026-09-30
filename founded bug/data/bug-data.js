@@ -4716,7 +4716,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "CRATEDB",
+    "Program": "CrateDB",
     "ID": 1,
     "Bug ID": "#19760",
     "Bug Link": "https://github.com/crate/crate/issues/19760",
@@ -4725,7 +4725,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "CRATEDB",
+    "Program": "CrateDB",
     "ID": 2,
     "Bug ID": "#19761",
     "Bug Link": "https://github.com/crate/crate/issues/19761",
@@ -4734,7 +4734,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "CRATEDB",
+    "Program": "CrateDB",
     "ID": 3,
     "Bug ID": "#20119",
     "Bug Link": "https://github.com/crate/crate/issues/20119",
@@ -4743,7 +4743,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "CRATEDB",
+    "Program": "CrateDB",
     "ID": 4,
     "Bug ID": "#20120",
     "Bug Link": "https://github.com/crate/crate/issues/20120",
@@ -4752,7 +4752,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "CRATEDB",
+    "Program": "CrateDB",
     "ID": 5,
     "Bug ID": "#20136",
     "Bug Link": "https://github.com/crate/crate/issues/20136",
@@ -4761,7 +4761,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "DUCKDB",
+    "Program": "DuckDB",
     "ID": 1,
     "Bug ID": "#25148",
     "Bug Link": "https://github.com/duckdb/duckdb/issues/25148",
@@ -4770,7 +4770,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MARIADB",
+    "Program": "MariaDB",
     "ID": 1,
     "Bug ID": "MDEV-39580",
     "Bug Link": "https://jira.mariadb.org/browse/MDEV-39580",
@@ -4779,7 +4779,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MARIADB",
+    "Program": "MariaDB",
     "ID": 2,
     "Bug ID": "MDEV-39725",
     "Bug Link": "https://jira.mariadb.org/browse/MDEV-39725",
@@ -4788,7 +4788,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MARIADB",
+    "Program": "MariaDB",
     "ID": 3,
     "Bug ID": "MDEV-40881",
     "Bug Link": "https://jira.mariadb.org/browse/MDEV-40881",
@@ -4797,7 +4797,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MARIADB",
+    "Program": "MariaDB",
     "ID": 4,
     "Bug ID": "MDEV-40883",
     "Bug Link": "https://jira.mariadb.org/browse/MDEV-40883",
@@ -4806,7 +4806,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MARIADB",
+    "Program": "MariaDB",
     "ID": 5,
     "Bug ID": "MDEV-40884",
     "Bug Link": "https://jira.mariadb.org/browse/MDEV-40884",
@@ -4815,7 +4815,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MARIADB",
+    "Program": "MariaDB",
     "ID": 6,
     "Bug ID": "MDEV-40888",
     "Bug Link": "https://jira.mariadb.org/browse/MDEV-40888",
@@ -4824,7 +4824,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MARIADB",
+    "Program": "MariaDB",
     "ID": 7,
     "Bug ID": "MDEV-40893",
     "Bug Link": "https://jira.mariadb.org/browse/MDEV-40893",
@@ -4833,7 +4833,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MONETDB",
+    "Program": "MonetDB",
     "ID": 1,
     "Bug ID": "#7999",
     "Bug Link": "https://github.com/MonetDB/MonetDB/issues/7999",
@@ -4842,7 +4842,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MONETDB",
+    "Program": "MonetDB",
     "ID": 2,
     "Bug ID": "#8000",
     "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8000",
@@ -4851,7 +4851,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MONETDB",
+    "Program": "MonetDB",
     "ID": 3,
     "Bug ID": "#8001",
     "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8001",
@@ -4860,7 +4860,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MONETDB",
+    "Program": "MonetDB",
     "ID": 4,
     "Bug ID": "#8014",
     "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8014",
@@ -4869,7 +4869,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MONETDB",
+    "Program": "MonetDB",
     "ID": 5,
     "Bug ID": "#8015",
     "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8015",
@@ -4878,7 +4878,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MONETDB",
+    "Program": "MonetDB",
     "ID": 6,
     "Bug ID": "#8017",
     "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8017",
@@ -4887,7 +4887,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MONETDB",
+    "Program": "MonetDB",
     "ID": 7,
     "Bug ID": "#8018",
     "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8018",
@@ -4896,7 +4896,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MONETDB",
+    "Program": "MonetDB",
     "ID": 8,
     "Bug ID": "#8019",
     "Bug Link": "https://github.com/MonetDB/MonetDB/issues/8019",
@@ -4905,7 +4905,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 1,
     "Bug ID": "#120248",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=120248",
@@ -4914,7 +4914,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 2,
     "Bug ID": "#120255",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=120255",
@@ -4923,7 +4923,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 3,
     "Bug ID": "#120256",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=120256",
@@ -4932,7 +4932,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 4,
     "Bug ID": "#120258",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=120258",
@@ -4941,7 +4941,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 5,
     "Bug ID": "#120259",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=120259",
@@ -4950,7 +4950,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 6,
     "Bug ID": "#120286",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=120286",
@@ -4959,7 +4959,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 7,
     "Bug ID": "#120543",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=120543",
@@ -4968,7 +4968,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 8,
     "Bug ID": "#121091",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121091",
@@ -4977,7 +4977,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 9,
     "Bug ID": "#121149",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121149",
@@ -4986,7 +4986,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 10,
     "Bug ID": "#121152",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121152",
@@ -4995,7 +4995,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 11,
     "Bug ID": "#121186",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121186",
@@ -5004,7 +5004,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 12,
     "Bug ID": "#121187",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121187",
@@ -5013,7 +5013,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 13,
     "Bug ID": "#121188",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121188",
@@ -5022,7 +5022,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 14,
     "Bug ID": "#121206",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121206",
@@ -5031,7 +5031,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 15,
     "Bug ID": "#121207",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121207",
@@ -5040,7 +5040,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "MYSQL",
+    "Program": "MySQL",
     "ID": 16,
     "Bug ID": "#121208",
     "Bug Link": "https://bugs.mysql.com/bug.php?id=121208",
@@ -5049,7 +5049,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 1,
     "Bug ID": "PS-11056",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11056",
@@ -5058,7 +5058,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 2,
     "Bug ID": "PS-11057",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11057",
@@ -5067,7 +5067,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 3,
     "Bug ID": "PS-11058",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11058",
@@ -5076,7 +5076,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 4,
     "Bug ID": "PS-11059",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11059",
@@ -5085,7 +5085,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 5,
     "Bug ID": "PS-11060",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11060",
@@ -5094,7 +5094,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 6,
     "Bug ID": "PS-11061",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11061",
@@ -5103,7 +5103,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 7,
     "Bug ID": "PS-11062",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11062",
@@ -5112,7 +5112,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 8,
     "Bug ID": "PS-11063",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11063",
@@ -5121,7 +5121,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 9,
     "Bug ID": "PS-11064",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11064",
@@ -5130,7 +5130,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 10,
     "Bug ID": "PS-11550",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11550",
@@ -5139,7 +5139,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 11,
     "Bug ID": "PS-11551",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11551",
@@ -5148,7 +5148,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 12,
     "Bug ID": "PS-11552",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11552",
@@ -5157,7 +5157,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 13,
     "Bug ID": "PS-11553",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11553",
@@ -5166,7 +5166,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 14,
     "Bug ID": "PS-11554",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11554",
@@ -5175,7 +5175,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "PERCONA",
+    "Program": "Percona",
     "ID": 15,
     "Bug ID": "PS-11555",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11555",
@@ -5184,7 +5184,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 1,
     "Bug ID": "#268",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/268",
@@ -5193,7 +5193,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 2,
     "Bug ID": "#269",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/269",
@@ -5202,7 +5202,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 3,
     "Bug ID": "#286",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/286",
@@ -5211,7 +5211,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 4,
     "Bug ID": "#287",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/287",
@@ -5220,7 +5220,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 5,
     "Bug ID": "#288",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/288",
@@ -5229,7 +5229,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 6,
     "Bug ID": "#289",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/289",
@@ -5238,7 +5238,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 7,
     "Bug ID": "#290",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/290",
@@ -5247,7 +5247,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 8,
     "Bug ID": "#291",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/291",
@@ -5256,7 +5256,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 9,
     "Bug ID": "#292",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/292",
@@ -5265,7 +5265,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "polardbx-sql",
+    "Program": "PolarDB",
     "ID": 10,
     "Bug ID": "#297",
     "Bug Link": "https://github.com/polardb/polardbx-sql/issues/297",
@@ -5274,7 +5274,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "TIDB",
+    "Program": "TiDB",
     "ID": 1,
     "Bug ID": "#70633",
     "Bug Link": "https://github.com/pingcap/tidb/issues/70633",
@@ -5283,7 +5283,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "TIDB",
+    "Program": "TiDB",
     "ID": 2,
     "Bug ID": "#70634",
     "Bug Link": "https://github.com/pingcap/tidb/issues/70634",
@@ -5292,7 +5292,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "TIDB",
+    "Program": "TiDB",
     "ID": 3,
     "Bug ID": "#70636",
     "Bug Link": "https://github.com/pingcap/tidb/issues/70636",
@@ -5301,7 +5301,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "TIDB",
+    "Program": "TiDB",
     "ID": 4,
     "Bug ID": "#70641",
     "Bug Link": "https://github.com/pingcap/tidb/issues/70641",
@@ -5310,7 +5310,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "TIDB",
+    "Program": "TiDB",
     "ID": 5,
     "Bug ID": "#70745",
     "Bug Link": "https://github.com/pingcap/tidb/issues/70745",
@@ -5319,7 +5319,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "TIDB",
+    "Program": "TiDB",
     "ID": 6,
     "Bug ID": "#70746",
     "Bug Link": "https://github.com/pingcap/tidb/issues/70746",
@@ -5346,7 +5346,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 1,
     "Bug ID": "#20611",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20611",
@@ -5355,7 +5355,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 2,
     "Bug ID": "#20612",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20612",
@@ -5364,7 +5364,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 3,
     "Bug ID": "#20613",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20613",
@@ -5373,7 +5373,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 4,
     "Bug ID": "#20614",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20614",
@@ -5382,7 +5382,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 5,
     "Bug ID": "#20615",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20615",
@@ -5391,7 +5391,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 6,
     "Bug ID": "#20616",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20616",
@@ -5400,7 +5400,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 7,
     "Bug ID": "#20617",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20617",
@@ -5409,7 +5409,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 8,
     "Bug ID": "#20618",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20618",
@@ -5418,7 +5418,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 9,
     "Bug ID": "#20619",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20619",
@@ -5427,7 +5427,7 @@ window.BUG_DATA = [
     "Method": "VECT"
   },
   {
-    "Program": "Vitness",
+    "Program": "Vitess",
     "ID": 10,
     "Bug ID": "#20620",
     "Bug Link": "https://github.com/vitessio/vitess/issues/20620",
