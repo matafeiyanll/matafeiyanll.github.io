@@ -5135,7 +5135,7 @@ window.BUG_DATA = [
     "Bug ID": "PS-11550",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11550",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "VECT"
   },
   {
@@ -5144,7 +5144,7 @@ window.BUG_DATA = [
     "Bug ID": "PS-11551",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11551",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "VECT"
   },
   {
@@ -5153,7 +5153,7 @@ window.BUG_DATA = [
     "Bug ID": "PS-11552",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11552",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "VECT"
   },
   {
@@ -5162,7 +5162,7 @@ window.BUG_DATA = [
     "Bug ID": "PS-11553",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11553",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "VECT"
   },
   {
@@ -5171,7 +5171,7 @@ window.BUG_DATA = [
     "Bug ID": "PS-11554",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11554",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "VECT"
   },
   {
@@ -5180,7 +5180,7 @@ window.BUG_DATA = [
     "Bug ID": "PS-11555",
     "Bug Link": "https://perconadev.atlassian.net/browse/PS-11555",
     "Bug Type": "Logical Bug",
-    "Status": "Waiting",
+    "Status": "Confirmed",
     "Method": "VECT"
   },
   {
